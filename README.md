@@ -37,6 +37,6 @@ This project aims to change that by building a **voice-enabled assistant** that:
 - **Modern UI/UX** → Next.js 15 + Tailwind v4  
 
 
-git clone (https://github.com/dheeujxs/DentAI.git)
+
 
 
